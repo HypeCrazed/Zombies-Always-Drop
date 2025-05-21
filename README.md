@@ -3,4 +3,4 @@
 
 This affects both zombies and zombie villagers, giving you a chance to easily get resources in a bad area.
 
-# [Download Datapack](https://github.com/HypeCrazed/Zombies-Always-Drop/releases/latest) ![image](https://github.com/user-attachments/assets/4126eb4b-b1b5-4ef7-a333-fbf6eaa85fe1) how can i make it where image is not big but text is but theyre next to each other github
+# [Download Datapack](https://github.com/HypeCrazed/Zombies-Always-Drop/releases/latest) ![image](https://github.com/user-attachments/assets/4126eb4b-b1b5-4ef7-a333-fbf6eaa85fe1)
