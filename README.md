@@ -1,2 +1,4 @@
-# Zombies-Always-Drop
-Zombies will always drop either a carrot, iron ingot, or potato.
+![zombies_always_drop_title](https://github.com/user-attachments/assets/86b90e03-813b-462d-9d85-feb52042adf4)
+## Zombies will always drop either a carrot, iron ingot, or potato.
+
+This affects both zombies and zombie villagers, giving you a chance to easily get resources in a bad area.
