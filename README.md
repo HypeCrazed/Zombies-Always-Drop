@@ -3,4 +3,4 @@
 
 This affects both zombies and zombie villagers, giving you a chance to easily get resources in a bad area.
 
-(Download Datapack)[https://github.com/HypeCrazed/Zombies-Always-Drop/releases/latest]
+[Download Datapack](https://github.com/HypeCrazed/Zombies-Always-Drop/releases/latest)
